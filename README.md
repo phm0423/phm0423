@@ -19,13 +19,6 @@
     - 
     - Will be added
 
-## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/phm0423">
-    <img src="https://github-readme-stats.vercel.app/api?username=phm0423&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phm0423&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
 
 ## Learning Languages
 <p align='left'>
@@ -58,6 +51,15 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
   <!-- <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
   <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio"> -->
+</p>
+
+
+## GitHub Stat and Languages
+<p align='center'>
+  <a href="https://github.com/phm0423">
+    <img src="https://github-readme-stats.vercel.app/api?username=phm0423&theme=nightowl&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phm0423&theme=nightowl&layout=compact"/>
+  </a>
 </p>
 
 
