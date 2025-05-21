@@ -16,7 +16,7 @@
     - Will be added
 
 - ToyProject
-    - Repository will be added
+    - Toy Project repository will be added
 
 
 ## Learning Languages
