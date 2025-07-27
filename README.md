@@ -16,7 +16,7 @@
     - Will be added
 
 - ToyProject
-    - Toy Project repository will be added
+    - [Toy Project](https://github.com/phm0423/iot-toyproject)
 
 
 ## Learning Languages
